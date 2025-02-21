@@ -6,4 +6,8 @@ Code Example:
 System.out.println("Hello, world!");
 ```
 
+task list:
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ### Heading 3
